@@ -29,6 +29,8 @@
 
 <br/>
 
+![counter](https://github.com/Omkar2310)
+
 <a href="https://github.com/Omkar2310">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar2310&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar2310&theme=buefy&layout=compact" />
