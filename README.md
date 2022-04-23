@@ -1,10 +1,10 @@
 <h3> Hey there! I'm Omkar Mankar.</h2>
-<h2> Full Stack Developer </h2>
+<h2> Full Stack Developer currently working at UdChalo Pune</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Currently working as Software Engineer 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering at PICT Pune.
+- 🎓 &nbsp; Graduated from PICT Pune in Computer Engineering 2021 Batch.
 
 
 
@@ -17,10 +17,15 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express.js-blue)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![AngularJs](https://img.shields.io/badge/-AngularJS-blue)
+  ![AWS](https://img.shields.io/badge/-AWS-blue)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-DynamoDB-blue)
+  ![MongoDB](https://img.shields.io/badge/-Postgres-blue)
 
 <br/>
 
@@ -36,6 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+  <a href="tel:9881285269">Whatsapp</a><br/>
 <a href="https://omkar2310.github.io/CodeVenture"><img alt="Website" src="https://img.shields.io/badge/Website-www.omkar2310.github.io%2FCodeVenture-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
 <a href="https://www.linkedin.com/in/omkar-mankar-893870159"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omkar%20Mankar-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
 <a href="mailto:mankar.omkar2310@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-mankar.omkar2310%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
