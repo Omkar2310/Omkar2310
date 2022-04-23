@@ -1,5 +1,4 @@
 <h3> Hey there! I'm Omkar Mankar.</h2>
-<h2> Full Stack Developer currently working at UdChalo Pune</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Currently working as Software Engineer 
