@@ -8,14 +8,15 @@
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 Programming Languages : C++ | JavaScript
-- 💻 Frontend : HTML | React.js | Angular
-- 💻 Backend : NodeJs
-- 🌐 Database : MySql | MongoDB | Firebase
-- ⚡ AWS: S3 | DynamoDB | Lambda | SQS | RDS
+<br/>
+- 💻 Programming Languages : C++ | JavaScript <br/>
+- 💻 Frontend : HTML | React.js | Angular <br/>
+- 💻 Backend : NodeJs | Express | Koa <br/>
+- 🌐 Database : MySql | MongoDB | Firebase <br/>
+- ⚡ AWS: S3 | DynamoDB | Lambda | SQS | RDS <br/>
 <br/>
 <br/>
-- 💻 &nbsp;
+<!-- - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
@@ -30,7 +31,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-DynamoDB-blue)
-  ![MongoDB](https://img.shields.io/badge/-Postgres-blue)
+  ![MongoDB](https://img.shields.io/badge/-Postgres-blue) -->
 
 <br/>
 
