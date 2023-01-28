@@ -1,14 +1,20 @@
-<h3> Hey there! I'm Omkar Mankar.</h2>
+<h3> Hey there! I'm Omkar Mankar. Currently working as Full Stack Developer at UdChalo Pune</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working as Software Engineer 
+- 💼 &nbsp; A driven and motivated full-stack developer with 2 years of experience in Node.js and AWS. Adept at leveraging my technical skills to design, develop and deploy high-performance, scalable and secure web applications. Proficient in using AWS services such as Lambda, S3, EC2, and RDS to build and deploy production-ready applications. Strong understanding of agile software development methodologies and a proven track record of delivering high-quality software on time and within budget. I am always eager to learn new technologies and stay up to date with the latest industry trends.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from PICT Pune in Computer Engineering 2021 Batch.
 
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+- 💻 Programming Languages : C++ | JavaScript
+- 💻 Frontend : HTML | React.js | Angular
+- 💻 Backend : NodeJs
+- 🌐 Database : MySql | MongoDB | Firebase
+- ⚡ AWS: S3 | DynamoDB | Lambda | SQS | RDS
+<br/>
+<br/>
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
