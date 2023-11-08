@@ -2,13 +2,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; A driven and motivated full-stack developer with 2.5+ years of experience in Node.js, React and AWS. Adept at leveraging my technical skills to design, develop and deploy high-performance, scalable and secure web applications.
-- Proficient in using AWS services such as Lambda, S3, SQS, DynamoDB to build and deploy production-ready applications. Strong understanding of agile software development methodologies and a proven track record of delivering high-quality software on time and within budget.
-- I am always eager to learn new technologies and stay up to date with the latest industry trends.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated from PICT Pune in Computer Engineering 2021 Batch.
-
-
-
+- NodeJS | AWS | React | MicroServices | Scalability
+- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br/>
 - 💻 Programming Languages : JavaScript | Typescript <br/>
@@ -16,11 +11,6 @@
 - 💻 Backend : NodeJs | Express <br/>
 - ⚡ AWS: S3 | DynamoDB | Lambda | SQS | RDS <br/>
 <br/>
-<br/>
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
