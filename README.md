@@ -1,9 +1,9 @@
 <h3> Hey there! I'm Omkar Mankar. Currently working as Full Stack Developer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; A driven and motivated full-stack developer with 2.5+ years of experience in Node.js, React and AWS. Adept at leveraging my technical skills to design, develop and deploy high-performance, scalable and secure web applications.
-- NodeJS | AWS | React | MicroServices | Scalability
-- 
+- 💼 &nbsp; Experienced Fullstack Developer with 2.5+ Years of Experience | Expertise in Building Scalable Node.js, React.js,
+    and AWS Applications | Enthusiastic About Creating Products from Inception to Real-World Impact
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br/>
 - 💻 Programming Languages : JavaScript | Typescript <br/>
