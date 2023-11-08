@@ -19,11 +19,6 @@
 <br/>
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
 
-<a href="https://github.com/Omkar2310">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar2310&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar2310&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -33,8 +28,6 @@
 <a href="https://www.linkedin.com/in/omkarmankar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omkar%20Mankar-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
 <a href="mailto:mankar.omkar2310@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-mankar.omkar2310%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
 </p>
-
-⭐️ From [Omkar2310](https://github.com/Omkar2310)
 
 <!--
 **Omkar2310/Omkar2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
