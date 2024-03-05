@@ -14,7 +14,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://omkar2310.github.io/CodeVenture"><img alt="Website" src="https://img.shields.io/badge/Website-www.omkar2310.github.io%2FCodeVenture-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
+<a href="https://omkar2310.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-www.omkar2310.github.io%2FCodeVenture-blue%3Fstyle%3Dflat--square%26logo%3Dgoogle--chrome"></a><br/>
 <a href="https://www.linkedin.com/in/omkarmankar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omkar%20Mankar-blue%3Fstyle%3Dflat--square%26logo%3Dlinkedin"></a> <br/>
 <a href="mailto:mankar.omkar2310@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMail-mankar.omkar2310%40gmail.com-blue%3Fstyle%3Dflat--square%26logo%3Dgmail"></a>
 </p>
