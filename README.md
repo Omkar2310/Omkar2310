@@ -1,15 +1,25 @@
 <h3> Hey there! I'm Omkar Mankar. Currently working as Full Stack Developer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Experienced Fullstack Developer with 2.5+ Years of Experience | Expertise in Building Scalable Node.js, React.js,
+- 💼 &nbsp; Experienced Fullstack Developer with 5+ Years of Experience | Expertise in Building Scalable Node.js, React.js,
     and AWS Applications | Enthusiastic About Creating Products from Inception to Real-World Impact
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br/>
-- 💻 Programming Languages : JavaScript | Typescript <br/>
-- 💻 Frontend : React.js | Tailwind | MUI <br/>
-- 💻 Backend : NodeJs | Express <br/>
-- ⚡ AWS: S3 | DynamoDB | Lambda | SQS | RDS <br/>
+● Programming & Frameworks : <br/>
+⚡⚡⚡ Proficient in JavaScript (ES6+), Node.js, Express.js, React.js, Typescript, Python and REST API development. 
+<br/>
+● Cloud Technologies : <br/>
+⚡⚡⚡ Extensive experience with AWS services, including S3, Lambda, SQS, DynamoDB, RDS, Cloudwatch, Eventbridge, API Gateway, Step Functions, Eventbridge Pipes, Textract.
+<br/>
+ ● Version Control & CI/CD : <br/>
+ ⚡⚡⚡Skilled in using GitHub, GitLab, Terraform and Jira for version control and collaboration. 
+<br/>
+● ML & Data Processing : <br/>
+⚡⚡⚡ Proficient in leveraging Amazon Textract for OCR and document processing.
+<br/>
+●Monitoring & Visualization : <br/>
+⚡⚡⚡ Proficient in using Cloudwatch, Kibana and Grafana for system monitoring, data visualization, and log analysis.
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
